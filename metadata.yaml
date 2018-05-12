@@ -1,0 +1,40 @@
+_repo: The-Princess-of-the-School_21656
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wiles, Frank
+    aliases:
+    - Wiles, Frank E.
+    - Wiles, Francis Edmund
+    birthdate: 1881
+    deathdate: 1963
+    gutenberg_agent_id: '24840'
+    url: http://www.gutenberg.org/2009/agents/24840
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brazil, Angela
+    birthdate: 1869
+    deathdate: 1947
+    gutenberg_agent_id: '2544'
+    url: http://www.gutenberg.org/2009/agents/2544
+    wikipedia: http://en.wikipedia.org/wiki/Angela_Brazil
+description: ''
+gutenberg_bookshelf:
+- School Stories
+- Children's Fiction
+gutenberg_issued: '2007-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21656'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Schools -- Fiction'
+title: The Princess of the School
+url: http://www.gutenberg.org/ebooks/21656
